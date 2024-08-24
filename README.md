@@ -5,7 +5,7 @@
 ![NumPy](https://img.shields.io/badge/nltk-blue)
 
 ## Descripción
-Trabajo realizado para TFI de especialización. Se enfoca en la generación de un modelo Machine Learning utilizando Python, Nltk y Sklearn para clasificación de  mensajes de redes sociales.
+Trabajo realizado para TFI de especialización, enfocado en la generación de un modelo Machine Learning utilizando Python, Nltk y Sklearn para clasificación de  mensajes de redes sociales, popularmente conocido como análisis de sentimientos.
 
 ## Objetivo
 Obtener tendencias de opinión pública sobre un producto de una empresa, mediante la implementación de técnicas de análisis de sentimientos sobre mensajes de clientes en redes sociales.
