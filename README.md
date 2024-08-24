@@ -61,3 +61,5 @@ Archivo con stopwords utilizadas para este trabajo.
 Contiene todos los CSV utilizados para exploración, entrenamiento y testeo.
 #### NBOOKS
 Contiene notebooks utilizados para exploración, entrenamiento y testeo.
+
+Bajo Licencia GNU GPL Version 3
